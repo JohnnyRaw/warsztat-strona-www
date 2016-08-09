@@ -8,7 +8,7 @@
 
 1. Stwórz [**fork**][forking]  repozytorium z tym egzaminem.
 2. [**Sklonuj**][ref-clone] repozytorium na swój komputer.
-3. [**Skomituj**][ref-commit] zmiany do swojego repozytorium.
+3. Gdy skończysz [**skomituj**][ref-commit] zmiany do swojego repozytorium.
 4. [**Wypchnij**][ref-push] zmiany do swojego repozytorium na GitHubie.
 5. [Stwórz **pull request**][pull-request] do oryginalnego repozytorium, gdy skończysz zadanie.
 
